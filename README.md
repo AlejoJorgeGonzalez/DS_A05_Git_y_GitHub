@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible tokes team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como muy amable recordatorio: **Este readme es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
